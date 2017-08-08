@@ -1,0 +1,4 @@
+VM into pods
+smaller environments
+maximize conputation in each pod?
+PODS_FILE
